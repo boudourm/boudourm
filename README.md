@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Mehdi (#OpenToWork)
+_Disclaimer : Most project are at final form, I opened this git in order to finally publish all my work that remained in the dark over the years._
 * 🛠  I'm working at [Atos Worldgrid](https://atos.net/fr/solutions/worldgrid) in Grenoble, France as a Software Engineer in Energy & Smart Utilities
 * 🍃 I'm in charge of the Architecture Design & Build of Smart Grid Grenoble - Territorial Monitoring, 
 solution: [Vivacité (FR)](https://youtu.be/3bl4_g1nblE), instance : [Métroénérgies](https://youtu.be/8tj_sliFGgw)  (GDPR compliant)
