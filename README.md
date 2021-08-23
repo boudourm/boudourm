@@ -8,4 +8,4 @@ solution: [Vivacité (FR)](https://youtu.be/3bl4_g1nblE), instance : [Métroén�
 * 📫 How to reach me : linkedin=[in/mehdiboudour](http://linkedin.com/in/mehdiboudour) | email=mehdi.boudour@atos.net | phone=+33774169399
 * If you wanna have a chat just let me know and we can meet on https://meet.jit.si/MehdiBoudourOpenToWork
 
-I hope to here from you soon !
+I hope to hear from you soon !
