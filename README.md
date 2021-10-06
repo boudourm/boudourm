@@ -5,7 +5,7 @@ _Disclaimer : Most projects are at final form, I opened this git in order to pub
 solution: [Vivacité (FR)](https://youtu.be/3bl4_g1nblE), instance : [Métroénérgies](https://youtu.be/8tj_sliFGgw)  (GDPR compliant)
 * 👀 I’m interested in open Software Engineer positions in your company
 * 🚀 I’m looking to collaborate on a project with great stakes, hight impacte & exciting challenges
-* 📫 How to reach me : linkedin=[in/mehdiboudour](http://linkedin.com/in/mehdiboudour) | email=mehdi.boudour@atos.net | phone=+33774169399
+* 📫 How to reach me : linkedin=[in/mehdiboudour](http://linkedin.com/in/mehdiboudour) | email=mehdiboudour.contact@gmail.com | phone=+33774169399
 * If you wanna have a chat just let me know and we can meet on https://meet.jit.si/MehdiBoudourOpenToWork
 
 I hope to hear from you soon !
