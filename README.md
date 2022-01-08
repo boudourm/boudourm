@@ -4,4 +4,4 @@ _Disclaimer : Most projects are at final form, I opened this git in order to pub
 * 👀 I’m interested in building a solid base of espertise that will help me provide better quality peices of software
 * 🚀 I’m looking to collaborate on a project with great stakes, hight impacte & exciting challenges
 * 📫 How to reach me : linkedin=[in/mehdiboudour](http://linkedin.com/in/mehdiboudour) | email=mehdiboudour.contact@gmail.com | phone=+33774169399
-[toHide]: <> (If you wanna have a chat just let me know and we can meet on https://meet.jit.si/MehdiBoudourOpenToWork)
+[comment]: # (If you wanna have a chat just let me know and we can meet on https://meet.jit.si/MehdiBoudourOpenToWork)
